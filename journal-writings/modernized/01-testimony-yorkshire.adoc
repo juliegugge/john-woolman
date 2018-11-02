@@ -1,8 +1,10 @@
-// TODO: Jason should turn this into a real epigraph 👍
+[quote.epigraph, , Isaiah 32:17]
+____
 The work of righteousness shall be peace;
 and the effect of righteousness, quietness and assurance forever.
-­-- Isaiah 32:17
+____
 
+[#testimony-yorkshire.style-blurb, short="Testimony of Yorkshire Friends"]
 == The Testimony of Friends in Yorkshire, at their Quarterly Meeting held at York, the 24th and 25th of the third month, 1773, concerning John Woolman, of Mount Holly, in the province of New Jersey, in America, who departed this life at the house of our friend Thomas Priestman, in the suburbs of this city, the 7th of the tenth month, 1772, and was interred in the burying-ground of Friends, the 9th of the same, aged about fifty-two years.
 
 This our valuable friend having been under a religious engagement for some time,

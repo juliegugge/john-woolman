@@ -1,3 +1,4 @@
+[#testimony-burlington.style-blurb, short="Testimony of Burlington Friends"]
 == A Testimony of the Monthly Meeting of Friends, held in Burlington, the 1st day of the eighth month, in the year of our Lord, 1774, concerning our esteemed friend, John Woolman, deceased.
 
 He was born in Northampton, in the county of Burlington, and province of West New Jersey,
@@ -17,8 +18,7 @@ until he arrived at the state of a father,
 capable of dividing the word aright to the different states he ministered unto;
 dispensing milk to babes, and meat to those of riper years.
 Thus he found the efficacy of that power to arise, which, in his own expressions,
-"`prepares the creature to stand like a trumpet
-through which the Lord speaks to his people.`"
+"`prepares the creature to stand like a trumpet through which the Lord speaks to his people.`"
 He was a loving husband, a tender father,
 and very humane to every part of the creation under his care.
 
@@ -102,6 +102,9 @@ at the foot of a list of the members of that meeting,
 made about five years before his death,
 we find in his hand writing the following observation and reflections.
 
+[.embedded-content-document]
+--
+
 As looking over the minutes made by persons who have put off this body,
 has sometimes revived in me a thought how ages pass away;
 so this list may probably revive a like thought in some,
@@ -111,7 +114,10 @@ has in tender mercies helped me hitherto; he has healed me of wounds,
 he has helped me out of grievous entanglements; he remains to be the strength of my life;
 to whom I desire to devote myself in time, and in eternity.
 
+[.signed-section-signature]
 Signed, John Woolman.
+
+--
 
 In the twelfth month, 1771,
 he acquainted this meeting that he found his mind drawn
@@ -129,8 +135,8 @@ During his short visit to Friends in that kingdom,
 we are informed that his services were acceptable and edifying.
 
 In his last illness he uttered many lively and comfortable expressions,
-being "`perfectly resigned,
-having no will either to live or die,`" as appears by the testimony of Friends at York,
+being "`perfectly resigned, having no will either to live or die,`"
+as appears by the testimony of Friends at York,
 in Great Britain, in the suburbs whereof, at the house of our friend Thomas Priestman,
 he died of the small-pox, on the 7th day of the tenth month, 1772,
 and was buried in Friends' burying-ground in that city, on the 9th of the same,
@@ -141,10 +147,9 @@ which he diligently attended when at home and in health of body,
 and his labors of love and pious care for the prosperity of Friends in the blessed Truth,
 we hope may not be forgotten, but that his good works may be remembered to edification.
 
-Signed in, and by order of the said meeting-, by Samuel Allinson, Clerk.
+Signed in, and by order of the said meeting, by Samuel Allinson, Clerk.
 
 Read and approved at our Quarterly Meeting,
 held at Burlington the 29th of the eighth month, 1774.
 
 Signed by order of said meeting, Daniel Smith, Clerk.
-

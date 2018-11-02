@@ -1,13 +1,13 @@
-== CHAPTER II.
+== Chapter II.
 
-His first journey, on a religious visit, into East Jersey,
-in company with Abraham Farrington --thoughts on merchandizing,
-and learning a trade--second journey, with Isaac Andrews, into Pennsylvania, Maryland,
-Virginia, and North Carolina--third journey, with Peter Andrews,
-through part of West and East Jersey-- some account of his sister Elizabeth,
-and her death--fourth journey, with Peter Andrews, through New York and Long Island,
-to New England--fifth journey, with John Sykes, to the Eastern Shore of Maryland,
-and the lower counties on Delaware.
+[.chapter-synopsis]
+* His first journey, on a religious visit, into East Jersey, in company with Abraham Farrington
+* thoughts on merchandizing, and learning a trade
+* second journey, with Isaac Andrews, into Pennsylvania, Maryland, Virginia, and North Carolina
+* third journey, with Peter Andrews, through part of West and East Jersey
+* some account of his sister Elizabeth, and her death
+* fourth journey, with Peter Andrews, through New York and Long Island, to New England
+* fifth journey, with John Sykes, to the Eastern Shore of Maryland, and the lower counties on Delaware.
 
 My esteemed friend Abraham Farrington,
 being about to make a visit to Friends on the eastern side of this province,
@@ -222,9 +222,17 @@ through the gracious visitations of God's love,
 she was strengthened to live a self-denying exemplary life,
 giving herself much to reading and meditation.
 The following letter may show, in some degree, her disposition: Haddonfield,
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Eleventh Month 1st, 1743.
 
-Beloved brother, John Woolman, In that love which desires the welfare of all men,
+[.salutation]
+Beloved brother, John Woolman,
+
+In that love which desires the welfare of all men,
 I write unto you.
 I received yours, dated 2nd day of the tenth month last, with which I was comforted.
 My spirit is bowed with thankfulness that I should be remembered, who am unworthy;
@@ -235,7 +243,11 @@ that I have not been cut off nor quite lost; but, at times,
 I am refreshed and comforted as with the glimpse of his presence,
 which is more to the immortal part, than all which this world can afford: so,
 with desires for your preservation with my own, I remain Your affectionate sister,
+
+[.signed-section-signature]
 Elizabeth Woolman, Jun.
+
+--
 
 The fore part of her illness she was in great sadness and dejection of mind,
 of which she told one of her intimate friends, and said,
@@ -258,17 +270,26 @@ and it will be well with my soul; and accordingly she died the next evening.
 The following exclamations were found amongst her writings; written, I believe,
 at four times:
 
+[.embedded-content-document]
+--
+
+[.numbered]
 I+++.+++ Oh! that my head were as waters, and mine eyes as a fountain of tears,
 that I might weep day and night, until acquainted with my God.
 
+[.numbered]
 II. O Lord, that I may enjoy your presence; or else my time is lost,
 and my life a snare to my soul.
 
-III.
-O Lord, that I may receive bread from your table, and that your grace may abound in me.
+[.numbered]
+III. O Lord, that I may receive bread from your table,
+and that your grace may abound in me.
 
+[.numbered]
 IV. O Lord, that I may be acquainted with your presence,
 that I may be seasoned with your salt, that your grace may abound in me.
+
+--
 
 Of late I found drawings in my mind to visit Friends in New England,
 and having an opportunity of joining in company with my beloved friend Peter Andrews,
@@ -306,8 +327,8 @@ several were brought into a close exercise
 concerning the eternal wellbeing of their souls.
 These young people continued for a time to frequent their public worship;
 and besides that, had meetings of their own;
-which meetings were a while allowed by their preacher, who sometimes met with them: but,
-in time,
+which meetings were a while allowed by their preacher,
+who sometimes met with them: but, in time,
 their judgment in matters of religion disagreeing with
 some of the articles of the Presbyterians,
 their meetings were disapproved by that Society;
@@ -364,4 +385,3 @@ we were often refreshed: and I may say, by experience,
 Though our Society, in these parts, appeared to me to be in a declining condition; yet,
 I believe the Lord has a people amongst them, who labor to serve him uprightly,
 but have many difficulties to encounter.
-
