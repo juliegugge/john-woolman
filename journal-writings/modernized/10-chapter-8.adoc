@@ -1,10 +1,11 @@
-== CHAPTER VIII.
+== Chapter VIII.
 
-His visits to Pennsylvania,
-Shrewsbury and Squan--publishes the second part of his Considerations on
-keeping negroes--The grounds of his appearing in some respects singular in
-his dress--visits the families of Friends of Ancocas and Mount Holly
-meetings--visit to the Indians at Wehaloosing on the river Susquehanna.
+[.chapter-synopsis]
+* His visits to Pennsylvania, Shrewsbury and Squan
+* Publishes the second part of his Considerations on keeping negroes
+* The grounds of his appearing in some respects singular in his dress
+* Visits the families of Friends of Ancocas and Mount Holly meetings
+* Visit to the Indians at Wehaloosing on the river Susquehanna.
 
 Having felt my mind drawn toward a visit to a few meetings in Pennsylvania,
 I was very desirous to be rightly instructed as to the time of setting off.
@@ -334,7 +335,7 @@ and their spirits violently agitated, quarrels often arise which end in mischief
 and the bitterness and resentments occasioned hereby, are frequently of long continuance.
 Again, their skins and furs, gotten through much fatigue and hard travels in hunting,
 with which they intended to buy clothing, when they become intoxicated,
-they often sell at a low rate for mora rum; and afterward,
+they often sell at a low rate for more rum; and afterward,
 when they suffer for lack of the necessaries of life,
 are angry with those who for the sake of gain, took the advantage of their weakness.
 Of this their chiefs have often complained, at their treaties with the English.
@@ -842,4 +843,3 @@ but I was not only taught patience, but also made thankful to God,
 who thus led me about and instructed me,
 that I might have a quick and lively feeling of the afflictions of my fellow-creatures,
 whose situation in life is difficult.
-

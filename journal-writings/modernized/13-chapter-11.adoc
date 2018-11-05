@@ -1,12 +1,12 @@
-== CHAPTER XI
+== Chapter XI
 
-Preparing to visit Friends in England--Embarks at Chester, in company with Samuel Emlen,
-in a ship bound to London--His deep exercise,
-in observing the difficulties and hardships the common sailors are exposed,
-to--Considerations on the dangers to which youth are exposed,
-in being trained to a sea-faring life;
-and its inconsistency with a pious education-- thoughts in a storm at sea;
-with many instructive contemplations on the voyage--arrival at London.
+[.chapter-synopsis]
+* Preparing to visit Friends in England
+* Embarks at Chester, in company with Samuel Emlen, in a ship bound to London
+* His deep exercise, in observing the difficulties and hardships the common sailors are exposed to
+* Considerations on the dangers to which youth are exposed, in being trained to a sea-faring life; and its inconsistency with a pious education
+* Thoughts in a storm at sea; with many instructive contemplations on the voyage
+* Arrival at London.
 
 Having been some time under a religious concern to prepare for crossing the seas,
 in order to visit Friends in the Northern parts of England,
@@ -573,4 +573,3 @@ and so abide in the love of Christ, that being delivered from the love of money,
 from the entangling expenses of a curious, delicate and luxurious life,
 we may learn contentment with a little; and promote the sea-faring life no further,
 than that spirit, which leads into all truth, attends us in our proceedings.
-

@@ -1,12 +1,18 @@
-== CONSIDERATIONS ON THE TRUE HARMONY OF MANKIND, AND HOW IT IS TO BE MAINTAINED.
 
-FIRST PRINTED IN THE YEAR 1770.
+[#harmony, short="Considerations on the Harmony of Mankind"]
+== Considerations on the True Harmony of Mankind, and How It Is To Be Maintained
 
+[.chapter-subtitle--blurb]
+First Printed in the Year 1770
+
+[quote.scripture, , Micah 5:7]
+____
 "`And the remnant of Jacob shall be in the midst of many people, as a dew from the Lord,
-as the showers upon the grass, that tarries not for man, nor waits for the sons of men.`" Micah 5:7.
+as the showers upon the grass, that tarries not for man, nor waits for the sons of men.`"
+____
 
 
-INTRODUCTION.
+=== Introduction
 
 As mankind, though descended from one parent, are divided into many families,
 and as trading to sea is greatly increased within a few ages past;
@@ -20,12 +26,8 @@ the spreading of the true and saving knowledge of God and of his son Jesus Chris
 amongst our fellow-creatures, which through his infinite love,
 some feel to be more precious than any other treasure.
 
-
-CONSIDERATIONS ON TRUE HARMONY
-
-CHAPTER I.
-
-On serving the Lord in our outward employments.
+[.old-style]
+=== Chapter I. / On serving the Lord in our outward employments.
 
 Under the humbling dispensations of the Father of mercies,
 I have felt an inward labor for the good of my fellow-creatures,
@@ -87,8 +89,7 @@ Same book, page 43.
 "`The garments we wear, says Clemens,
 ought to be mean and frugal--that is true simplicity of habit,
 which takes away what is vain and superfluous; that the best and most solid garment,
-which is the farthest from curiosity.`"
-Page 49.
+which is the farthest from curiosity.`" Page 49.
 
 Though the change from day to night,
 is by a motion so gradual as scarcely to be perceived,
@@ -161,7 +162,7 @@ and that we may see the true harmony restored.
 
 Behold "`how good and how pleasant it is, for brethren to dwell together in unity.`"
 The nature of this unity is thus opened by the apostle, "`If we walk in the light,
-as He +++[+++God]
+as He +++[+++God+++]+++
 is in the light, we shall have fellowship one with another,
 and the blood of Jesus Christ, his Son, cleanses us from all sin.`"
 The land may be polluted with innocent blood,
@@ -261,10 +262,8 @@ and members of Christ; be ashamed therefore to.
 think, speak, or do anything unseemly, for God's children and the members of Christ.`"
 Fox's Acts and Monuments, page 1177.
 
-
-CHAPTER II.
-
-On the example of Christ.
+[.old-style]
+=== Chapter II. / On the Example of Christ.
 
 My mind has been brought into a brotherly feeling with the poor,
 as to the things of this life,
@@ -337,7 +336,7 @@ Behold him as some poor man of no reputation, standing before the high priest an
 and before Herod and Pilate, where witnesses appear against him, and he,
 mindful of the most gracious design of his coming, declines to plead in his own defense,
 "`but as a sheep that is dumb before his shearer,`" so under many accusations,
-revilings and bufFetings, he remained silent.
+revilings and buffetings, he remained silent.
 
 And though he signified to Peter that he had access to
 power sufficient to overthrow all their outward forces;
@@ -380,10 +379,8 @@ that the wisdom from above may shine forth in their living,
 as a light by which others may be instrumentally helped on their way,
 in the true harmonious walking.
 
-
-CHAPTER III.
-
-On Merchandising.
+[.old-style]
+=== Chapter III. / On Merchandising.
 
 Where the treasures of pure love are opened,
 and we obediently follow Him who is the light of life, the mind becomes chaste;
@@ -607,8 +604,7 @@ among whom I shall be received in your sight, this day,
 as a fruitful and acceptable sacrifice: wherefore for all this, I praise you,
 I bless you, I glorify you through the everlasting High Priest, Jesus Christ,
 your well-beloved Son; to whom, with you and the Holy Ghost, be all glory,
-world without end.
-Amen.`"
+world without end. Amen.`"
 Bishop Latimer, when sentence of death by fire, was pronounced against him,
 on account of his firmness in the cause of religion, said, "`I thank God most heartily,
 that he has prolonged my life to this end; that I may,
@@ -644,10 +640,8 @@ O that we may lay to heart the condition of the present time,
 and humbly follow His counsel,
 who alone is able to prepare the way for a true harmonious walking amongst mankind.
 
-
-CHAPTER IV.
-
-On Divine Admonitions.
+[.old-style]
+=== Chapter IV. / On Divine Admonitions.
 
 Such are the perfections of our heavenly Father,
 that in all the dispensations of his providence, it is our duty, "`in every thing,
@@ -729,11 +723,8 @@ in the case of one being found slain;
 but seek for gain arising from scenes of violence and oppression,
 here the land is polluted with blood. Duet. 21:6.
 
-
 Moreover, when the earth is planted and tilled,
 and the fruits brought forth are applied to support unrighteous purposes;
 here the gracious design of Infinite Goodness, in these his gifts, being perverted,
 the earth is defiled; and the complaint formerly uttered becomes applicable;
 "`You have made me to serve with your sins; you have wearied me with your iniquities.`"
-
-

@@ -1,16 +1,15 @@
-== CHAPTER V.
+== Chapter V.
 
-Considerations on the payment of a tax laid for carrying on the war against
-the Indians-- Some notes on Thomas a Kempis and John Huss--Meetings of the
-committee of the Yearly Meeting at Philadelphia--The present circumstances
-of Friends in Pennsylvania and New Jersey very different from those of our
-predecessors--The drafting of the militia in New Jersey to serve in the army;
-with some observations on the state of the members of our
-Society at that time--His visit to Friends in Pennsylvania,
-accompanied by Benjamin Jones--Proceedings at the Monthly,
-Quarterly and Yearly Meetings in Philadelphia, respecting those who keep slaves.
+[.chapter-synopsis]
+* Considerations on the payment of a tax laid for carrying on the war against the Indians
+* Some notes on Thomas a Kempis and John Huss
+* Meetings of the committee of the Yearly Meeting at Philadelphia
+* The present circumstances of Friends in Pennsylvania and New Jersey very different from those of our predecessors
+* The drafting of the militia in New Jersey to serve in the army; with some observations on the state of the members of our Society at that time
+* His visit to Friends in Pennsylvania, accompanied by Benjamin Jones
+* Proceedings at the Monthly, Quarterly and Yearly Meetings in Philadelphia, respecting those who keep slaves.
 
-A FEW years past, money being made current in our province for carrying on wars,
+A few years past, money being made current in our province for carrying on wars,
 and to be called in again by taxes laid on the inhabitants,
 my mind was often affected with the thoughts of paying such taxes;
 and I believe it right for me to preserve a memorandum concerning it.
@@ -79,8 +78,7 @@ These committees meeting together, had a weighty conference in the fear of the L
 at which time,
 I perceived there were many Friends under a scruple like that before-mentioned.^
 footnote:[Christians refused to pay taxes to support Heathen temples.
-See Primitive Christianity, part III.
-page 327]
+See [.book-title] #Primitive Christianity#, part III. page 327]
 
 As scrupling to pay a tax on account of the application,
 has seldom been heard of heretofore, even amongst men of integrity,
@@ -276,7 +274,6 @@ by an appointment before I left home, to join in the visit.
 We were at Radnor, Merion, Richland, North Wales, Plymouth and Abington meetings;
 and had cause to bow in reverence before the Lord our gracious God,
 by whose help way was opened for us from day to day.
-
 I was out about two weeks, and rode about two hundred miles.
 
 The Monthly Meeting of Philadelphia having been
@@ -313,8 +310,7 @@ I said in substance, as follows: "`In the difficulties attending us in this life
 nothing is more precious than the mind of Truth inwardly manifested;
 and it is my earnest desire, that in this weighty matter,
 we may be so truly humbled as to be favored with
-a clear understanding of the mind of Truth,
-and follow it;
+a clear understanding of the mind of Truth, and follow it;
 this would be of more advantage to the Society than any
 medium not in the clearness of Divine wisdom.
 The case is difficult to some who have slaves; but if such set aside all self-interest,
@@ -364,4 +360,3 @@ at length, no opposition was made publicly.
 A minute was made on that subject, more full than any heretofore;
 and the names of several Friends entered,
 who were free to join in a visit to such who kept slaves.
-

@@ -1,14 +1,12 @@
-== CHAPTER VI.
+== Chapter VI.
 
-His visiting the Quarterly Meetings in Chester county;
-and afterwards joining with Daniel Stanton and John Scarborough,
-in a visit to such as kept slaves there--Some observations on the
-conduct those should maintain who are concerned to speak in meetings
-for discipline-- Several visits to such who kept slaves:
-and to Friends near Salem--Some account of the Yearly Meeting in the year 1759;
-and of the increasing concern, in several provinces,
-to labor against buying and keeping slaves--The Yearly Meeting
-epistle--His thoughts on the small-pox spreading--and on inoculation.
+[.chapter-synopsis]
+* His visiting the Quarterly Meetings in Chester county; and afterwards joining with Daniel Stanton and John Scarborough, in a visit to such as kept slaves there
+* Some observations on the conduct those should maintain who are concerned to speak in meetings for discipline
+* Several visits to such who kept slaves: and to Friends near Salem
+* Some account of the Yearly Meeting in the year 1759; and of the increasing concern, in several provinces, to labor against buying and keeping slaves
+* The Yearly Meeting epistle
+* His thoughts on the small-pox spreading and on inoculation.
 
 On the 11th day of the eleventh month, in the year 1758, I set out for Concord;
 the Quarterly Meeting heretofore held there, was now,
@@ -179,11 +177,14 @@ Great is the goodness of the Lord toward his poor creatures.
 
 An epistle went forth from this Yearly Meeting,
 which I think good to give a place in this journal; being as follows:
-"`From the Yearly Meeting held at Philadelphia, for Pennsylvania and New Jersey,
-from the 22nd day of the ninth month, to the 28th day of the same, inclusive, 1759.
 
-To the Quarterly and Monthly Meetings of Friends belonging to the said Yearly Meeting.
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== "`From the Yearly Meeting held at Philadelphia, for Pennsylvania and New Jersey, from the 22nd day of the ninth month, to the 28th day of the same, inclusive, 1759. To the Quarterly and Monthly Meetings of Friends belonging to the said Yearly Meeting.
+
+[.salutation]
 Dearly beloved friends and brethren.
 
 In an awful sense of the wisdom and goodness of the Lord our God,
@@ -246,7 +247,7 @@ Thus the inspired prophet, reasoning with the degenerated Jews, says,
 know therefore, that it is an evil thing and bitter,
 that you have forsaken the Lord your God, and that my fear is not in you,
 says the Lord God of hosts.'
-"`The God of our fathers, who has bestowed on us many benefits,
+The God of our fathers, who has bestowed on us many benefits,
 furnished a table for us in the wilderness,
 and made the deserts and solitary places to rejoice,
 does now mercifully call upon us to serve him more faithfully.
@@ -348,8 +349,13 @@ whatsoever things are pure, whatsoever things are lovely,
 whatsoever things are of good report; if there be any virtue, if there be any praise,
 think on these things and do them, and the God of peace shall be with you.'`"
 
+[.signed-section-signature]
 Signed by appointment, and on behalf of our said meeting, by seven Friends.
+
+[.signed-section-context-close]
 On the 28th day of the eleventh month, in the year 1759,
+
+--
 
 I was at the Quarterly Meeting in Bucks county.
 This day being the meeting of ministers and elders,
@@ -376,7 +382,7 @@ We proceeded on the visit in a weighty frame of spirit,
 and went to the houses of the most active members throughout the county who had negroes;
 and through the goodness of the Lord,
 my mind was preserved in resignation in times of trial,
-and though the work was hard to~ nature,
+and though the work was hard to nature,
 yet through the strength of that love which is stronger than death,
 tenderness of heart was often felt amongst us in our visits,
 and we parted from several families with greater satisfaction than we expected.
@@ -417,7 +423,7 @@ it tends to make me think, whether my manner of life in things outward,
 has nothing in it which may unfit my body to receive
 this messenger in a way the most favorable to me.
 Do I use food and drink in no other sort, and in no other degree,
-than was designed by Him who gave these creatures for our sustenance?
+than was designed by Him who gave these created things for our sustenance?
 Do I never abuse my body by inordinate labor,
 striving to accomplish some end which I have unwisely proposed?
 Do I use action enough in some useful employ?
@@ -502,4 +508,3 @@ where that knowledge extended.
 But as life and health are his gifts, and not to be disposed of in our own wills,
 to take upon us, when in health, a distemper of which some die,
 requires great clearness of knowledge, that it is our duty to do so.
-

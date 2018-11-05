@@ -1,10 +1,15 @@
-== CHAPTER III.
+== Chapter III.
 
-His marriage--the death of his father--his journeys into the upper part of New Jersey,
-and afterwards into Pennsylvania--considerations on keeping slaves--visits
-to the families of Friends at several times and places--an epistle from the
-General Meeting--journey to Long Island--considerations on trading,
-and on the use of spirituous liquors and costly apparel --letter to a Friend.
+[.chapter-synopsis]
+* His marriage
+* The death of his father
+* His journeys into the upper part of New Jersey, and afterwards into Pennsylvania
+* Considerations on keeping slaves
+* Visits to the families of Friends at several times and places
+* An epistle from the General Meeting
+* Journey to Long Island
+* Considerations on trading, and on the use of spirituous liquors and costly apparel
+* Letter to a Friend.
 
 About this time believing it good for me to settle,
 and thinking seriously about a companion, my heart was turned to the Lord,
@@ -131,6 +136,9 @@ An Epistle from our General Spring meeting of ministers and elders,
 for Pennsylvania and New Jersey, held at Philadelphia, from the 20th of the third month,
 to the 1st of the fourth month, inclusive, 1755; To Friends on the continent of America.
 
+[.embedded-content-document.letter]
+--
+[.salutation]
 Dear Friends,
 
 In a humble sense of Divine goodness,
@@ -177,8 +185,8 @@ disentangled from the surfeiting cares of this life,
 and redeemed from the love of the world,
 that no earthly possessions or enjoyments may bias our judgments,
 or turn us from that resignation, and entire trust in God,
-to which his blessing is most surely annexed; then may we say, "`Our Redeemer is mighty,
-he will plead our cause for us.`"
+to which his blessing is most surely annexed; then may we say,
+"`Our Redeemer is mighty, he will plead our cause for us.`"
 And if, for the further promoting of his most gracious purposes in the earth,
 he should give us to taste of that bitter cup
 which his faithful ones have often partaken of;
@@ -215,7 +223,10 @@ for the chastisement of wickedness, and further promoting his own glory, he does
 even to shake terribly the earth, who then may oppose him, and prosper!
 We remain, in the love of the Gospel, your friends and brethren.
 
+[.signed-section-signature]
 Signed by fourteen Friends.
+
+--
 
 Scrupling to do writings relative to keeping slaves,
 having been a means of sundry small trials to me,
@@ -420,12 +431,15 @@ through the great number of superfluities which are bought and sold,
 and through the corruption of the times, they who apply to merchandize for a living,
 have great need to be well experienced in that precept
 which the prophet Jeremiah laid down for his scribe;
-"`Do you seek great things for yourself?
-Seek them not.`"
+"`Do you seek great things for yourself? Seek them not.`"
 In the winter, this year, I was engaged with Friends in visiting families;
 and through the goodness of the Lord,
 we had oftentimes experience of his heart-tendering presence amongst us.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A Copy of a Letter Written to a Friend.
 
 In this your late affliction I have found a deep fellow-feeling with you;
@@ -495,3 +509,4 @@ and the weakness of God is stronger than man.
 Being unclothed of our own wisdom, and knowing the abasement of the creature,
 therein we find that power to arise, which gives health and vigor to us.
 
+--

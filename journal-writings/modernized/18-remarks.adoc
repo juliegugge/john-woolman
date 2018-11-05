@@ -1,10 +1,10 @@
-== REMARKS ON SUNDRY SUBJECTS.
+== Remarks on Sundry Subjects
 
-First Printed In London, 1773.
+[.chapter-subtitle--blurb]
+First Printed in the Year 1773
 
-CHAPTER I.
-
-On loving our neighbors as ourselves.
+[.old-style]
+=== Chapter I. / On Loving Our Neighbors As Ourselves.
 
 When we love the Lord with all our hearts, and his creatures in his love,
 we are then preserved in tenderness both toward mankind and the animal creation;
@@ -326,7 +326,9 @@ than that which they were used to at home, that with grief,
 with different diet from what has been common with them, and with hard labor,
 some thousands are computed to die every year, in what is called the seasoning.
 
-+++[+++Note from the Editors of The Friend's Library --
+[quote]
+____
++++[+++_Note from the Editors of the original Friend's Library, 1840_ --
 In perusing the writings of this worthy man,
 the reader cannot fail to observe how large a portion of his attention was occupied
 in contemplating the wrongs and cruelties of negro slavery and the slave trade,
@@ -864,8 +866,8 @@ But especially are we called upon deeply to ponder this affecting subject,
 and to dwell under the weight of it, by the fact that our own country is implicated,
 in no small degree in the guilt of the traffic,
 it being well ascertained that American vessels, American capital and American citizens,
-are employed in its prosecution.
--- End Editor's Note]
+are employed in its prosecution. -- End of Editor's Note]
+____
 
 Thus it appears evident,
 that great numbers of these people are brought every year to an untimely end;
@@ -1183,10 +1185,8 @@ and I often feel tender compassion toward a young generation,
 with desires that their difficulties may not be increased
 through unfaithfulness in us of the present age.
 
-
-CHAPTER II.
-
-On a Sailor's life.
+[.old-style]
+=== Chapter II. / On a Sailor's life.
 
 In the trade to Africa for slaves, and in the management of ships going on these voyages,
 many of our lads and young men have a considerable part of their education.
@@ -1301,10 +1301,8 @@ while they who live in these customs are so
 entangled in a multitude of unnecessary concerns,
 that they think but little of the hardships which the poor people go through.
 
-
-CHAPTER III.
-
-On Silent Worship.
+[.old-style]
+=== Chapter III. / On Silent Worship.
 
 Worship in silence has often been refreshing to my mind,
 and a care attends me that a young generation may feel the nature of this worship.
@@ -1363,4 +1361,3 @@ and that table which is prepared by the god of this world.
 
 If Christ is our shepherd and feeds us, and we are faithful in following him,
 our lives will have an inviting language, and the table of the Lord will not be polluted.
-

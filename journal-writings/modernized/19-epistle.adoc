@@ -1,5 +1,6 @@
 == An Epistle to the Quarterly and Monthly Meetings of Friends.
 
+[.salutation]
 Beloved Friends,
 
 Feeling at this time a renewed concern that the pure Spirit of light and life,
@@ -110,8 +111,7 @@ his conduct has a tendency to entangle the minds of those who are weak in the fa
 who behold these things, and to draw a veil over the purity of righteousness,
 by carrying an appearance as though that was righteousness which is not.
 
-Again,
-if I propose to assist in supporting those doctrines
+Again, if I propose to assist in supporting those doctrines
 wherein that purity of life is held forth,
 in which customs proceeding from the spirit of this world have no place,
 and at the same time strengthen others in those customs by my example;
@@ -341,8 +341,8 @@ without the pure leadings of the Spirit of Christ.
 While aught remains in us different from a perfect resignation of our wills,
 it is like a seal to a book wherein is written "`that good and acceptable,
 and perfect will of God concerning us;`" but when our minds entirely yield to Christ,
-that silence is known, which follows the opening of the last of the seals, Rev.viii.
-1+++.+++ In this silence we learn to abide in the Divine will,
+that silence is known, which follows the opening of the last of the seals, Rev. 8:1.
+In this silence we learn to abide in the Divine will,
 and there feel that we have no cause to promote but that only
 in which the light of life directs us in our proceedings,
 and that the alone way to.
@@ -480,6 +480,8 @@ and desires from the fountain of pure love are opened in me,
 to invite my brethren and fellow-creatures to feel for,
 and seek after that which gathers the mind into it.
 
+[.signed-section-signature]
 John Woolman.
 
+[.signed-section-context-close]
 Mount Holly, New Jersey, Fourth month, 1772.

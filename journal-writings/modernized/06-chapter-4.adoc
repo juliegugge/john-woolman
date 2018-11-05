@@ -1,11 +1,11 @@
-== CHAPTER IV.
+== Chapter IV.
 
-His visiting the families of Friends at Burlington --His journey to Pennsylvania,
-Maryland, Virginia and North Carolina--Considerations on the state of Friends there,
-and the exercise he was under in traveling among those concerned in keeping slaves:
-with some observations on this subject--His epistle to Friends
-at New Garden and Cane creek--His thoughts on the neglect of a
-religious care in the education of the negroes.
+[.chapter-synopsis]
+* His visiting the families of Friends at Burlington
+* His journey to Pennsylvania, Maryland, Virginia and North Carolina
+* Considerations on the state of Friends there, and the exercise he was under in traveling among those concerned in keeping slaves: with some observations on this subject
+* His epistle to Friends at New Garden and Cane creek
+* His thoughts on the neglect of a religious care in the education of the negroes.
 
 The 13th day of the second month, in the year 1757, being then in good health,
 and abroad with Friends visiting families, I lodged at a Friend's house in Burlington;
@@ -53,7 +53,6 @@ and be so supported as to remain unmoved at the faces of men.
 As it is common for Friends on such a visit to have entertainment free of cost,
 a difficulty arose in my mind with respect to saving my money by kindness received,
 which to me appeared to be the gain of oppression.
-
 Receiving a gift, considered as a gift,
 brings the receiver under obligations to the benefactor,
 and has a natural tendency to draw the obliged into a party with the giver.
@@ -389,6 +388,9 @@ About this time I wrote an epistle to Friends in the back settlements of North C
 as follows: To Friends at their Monthly Meeting at New Garden and Cane creek,
 in North Carolina.
 
+[.embedded-content-document.letter]
+--
+[.salutation]
 Dear Friends,
 
 It having pleased the Lord to draw me forth on a
@@ -491,7 +493,13 @@ you may find true peace and satisfaction.
 If the Lord be our God, in truth and reality, there is safety for us;
 for he is a strong hold in the day of trouble, and knows them that trust in him.
 
-John WoolmanIsle of Wight county, in Virginia, 29th of the Fifth month, 1757.
+[.signed-section-signature]
+John Woolman
+
+[.signed-section-context-close]
+Isle of Wight county, in Virginia, 29th of the Fifth month, 1757.
+
+--
 
 From the Yearly Meeting in Virginia, I went to Carolina;
 and on the 1st day of the sixth month, was at Wells Monthly Meeting,
@@ -660,4 +668,3 @@ From hence I was at three meetings in my way, and so went home,
 under a humbling sense of the gracious dealings of the Lord with me,
 in preserving me through many trials and afflictions in my journey.
 I was out about two months, and travelled about eleven hundred and fifty miles.
-

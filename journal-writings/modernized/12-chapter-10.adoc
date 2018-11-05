@@ -1,13 +1,12 @@
-== CHAPTER X.
+== Chapter X.
 
-His exercise for the good of the people in the West Indies--communicates to Friends
-his resignation to visit some of these islands--The state of his mind,
-and the close considerations he has led into while
-under this exercise-- preparations to embark,
-and considerations on the trade to these islands;
-released from the concern he had been under--religious
-engagements after his return home--His sickness,
-in which he was brought to a very low state; and the prospects he then had.
+[.chapter-synopsis]
+* His exercise for the good of the people in the West Indies
+* Communicates to Friends his resignation to visit some of these islands
+* The state of his mind, and the close considerations he has led into while under this exercise
+* Preparations to embark, and considerations on the trade to these islands; released from the concern he had been under
+* Religious engagements after his return home
+* His sickness, in which he was brought to a very low state; and the prospects he then had.
 
 The 12th day of the third month, 1770, having for some years past,
 dieted myself on account of a lump gathering on my nose, I grew weak in body,
@@ -68,8 +67,7 @@ But of late years being further informed respecting the
 oppressions too generally exercised in these islands,
 and thinking often on the degrees there are in the connexions
 of interest and fellowship with the works of darkness,
-Ephe.
-v. 11.;
+Ephe. 5:11.;
 and feeling an increasing concern to be wholly
 given up to the leadings of the Holy Spirit,
 it has appeared to me, that the small gain I got by this branch of trade,
@@ -151,7 +149,7 @@ I believe many there would suffer for lack of bread.
 "`Did we on this continent, and the inhabitants of the West Indies,
 generally dwell in pure righteousness, I believe a small trade between us might be right.
 Under these considerations,
-when the thoughts of wholly decling the use of trading vessels,
+when the thoughts of wholly declining the use of trading vessels,
 and of trying to hire a vessel to go in ballast have arisen in my mind,
 I have believed that the labors in Gospel love,
 yet bestowed in the cause of universal righteousness, are not arrived to that height.
@@ -250,6 +248,5 @@ arise up before the throne of God and the Lamb--I saw this habitation to be safe
 to be inwardly quiet, when there were great stirrings and commotions in the world.
 
 "`Prayer at this day, in pure resignation, is a precious place: the trumpet is sounded,
-the call goes forth to the church, that she gather to the place of pure in ward prayer;
+the call goes forth to the church, that she gather to the place of pure inward prayer;
 and her habitation is safe.`"
-
