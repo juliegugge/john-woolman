@@ -509,7 +509,9 @@ that they would consider their latter end!`"
 
 [quote.scripture, , Deut. 1:17]
 ____
-"`You shall not respect persons in judgment; but you shall hear the small as well as the great: you shall not be afraid of the face of man; for the judgment is God`'s.`"
+"`You shall not respect persons in judgment;
+but you shall hear the small as well as the great:
+you shall not be afraid of the face of man; for the judgment is God`'s.`"
 ____
 
 [.chapter-subtitle--blurb]
