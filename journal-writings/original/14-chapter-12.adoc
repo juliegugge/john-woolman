@@ -586,9 +586,5 @@ or struggle.
 
 End of Journal
 
-
 [.asterism]
 '''
-
-
-
